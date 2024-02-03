@@ -1,0 +1,22 @@
+h1 {
+  text-align: center;
+  font-size: 60px;
+}
+td {
+  width: 100px;
+  height: 100px;
+}
+.horizontal {
+  border-top: 1px red solid;
+  border-bottom: 1px red solid;
+}
+.vertical {
+  border-left: 1px red solid;
+  border-right: 1px red solid;
+}
+.t1 {
+  margin: auto;
+}
+td:hover {
+  border: yellow 1px solid;
+}
